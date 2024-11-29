@@ -6,14 +6,14 @@
 <div align="center">
   <a href="https://github.com/zyx-0314/">
   <!-- TODO: If you want to add logo or banner you can add it here -->
-    <img src="./assets/img/nyebe_white.png" alt="Nyebe" width="130" height="100">
+    <img src="./assets/img/logo.gif" alt="bbama" width="130" height="100">
   </a>
 <!-- TODO: Change Title to the name of the title of your Project -->
-  <h3 align="center">Title</h3>
+  <h3 align="center">Kodansha Comics</h3>
 </div>
 <!-- TODO: Make a short description -->
 <div align="center">
-  Short Description. (Optional)
+  An interactive website for Kodansha Comics Publishing.
 </div>
 
 <br />
@@ -62,10 +62,14 @@
 Description of the project in details.
 
 Guiding Question:
-- What is the project
-- Whats the purpose
-- What are key components
-- What technology used and how it is used
+- What is the project: the proect is about an interactive website for the publishing company Kodansha Comics.
+
+- Whats the purpose: the purpose of this website is to provide information about Kodansha itself, and to showcase the different publications that they have.
+
+- What are key components: multipage website
+
+- What technology used and how it is used: HTML - used for the the whole structure of the website. CSS - used to style and create layout for the webpages, also to decorate the webpages.
+
 
 ### Key Components
 <!-- TODO: List of Key Components -->
@@ -118,5 +122,5 @@ WD-ProjectName
 
 <!-- TODO: Add References -->
 | Title | Purpose | Link |
-|-|-|-|
-| Sample Title | Sample purpose would be here like this and this is the example of what it is. | trykolang.com |
+| code guide | codes used in the css, for example: configuring containers. | https://stackoverflow.com |
+| code guide | codes used in the css, for example: shadow box | https://www.w3schools.com |
