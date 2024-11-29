@@ -122,5 +122,7 @@ WD-ProjectName
 
 <!-- TODO: Add References -->
 | Title | Purpose | Link |
+
 | code guide | codes used in the css, for example: configuring containers. | https://stackoverflow.com |
+
 | code guide | codes used in the css, for example: shadow box | https://www.w3schools.com |
