@@ -62,9 +62,7 @@
 Description of the project in details.
 
 Guiding Question:
-- What is the project: 
-
-The proect is about an interactive website for the publishing company Kodansha Comics.
+- What is the project: the proect is about an interactive website for the publishing company Kodansha Comics.
 
 - Whats the purpose:
 
@@ -129,5 +127,7 @@ WD-ProjectName
 
 <!-- TODO: Add References -->
 | Title | Purpose | Link |
+
 | code guide | codes used in the css, for example: configuring containers. | https://stackoverflow.com |
+
 | code guide | codes used in the css, for example: shadow box | https://www.w3schools.com |
