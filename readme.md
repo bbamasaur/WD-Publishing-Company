@@ -20,7 +20,7 @@
 
 <!-- TODO: Change the zyx-0314 into your github username  -->
 <!-- TODO: Change the WD-Template-Project into the same name of your folder -->
-![](https://visit-counter.vercel.app/counter.png?page=zyx-0314/WD-Template-Project)
+![](https://visit-counter.vercel.app/counter.png?page=bbamasaur/WD-Publishing-Company)
 
 [![wakatime](https://wakatime.com/badge/user/018dd99a-4985-4f98-8216-6ca6fe2ce0f8/project/63501637-9a31-42f0-960d-4d0ab47977f8.svg)](https://wakatime.com/badge/user/018dd99a-4985-4f98-8216-6ca6fe2ce0f8/project/63501637-9a31-42f0-960d-4d0ab47977f8)
 
@@ -62,27 +62,34 @@
 Description of the project in details.
 
 Guiding Question:
-- What is the project: the proect is about an interactive website for the publishing company Kodansha Comics.
+- What is the project: 
 
-- Whats the purpose: the purpose of this website is to provide information about Kodansha itself, and to showcase the different publications that they have.
+The proect is about an interactive website for the publishing company Kodansha Comics.
 
-- What are key components: multipage website
+- Whats the purpose:
 
-- What technology used and how it is used: HTML - used for the the whole structure of the website. CSS - used to style and create layout for the webpages, also to decorate the webpages.
+The purpose of this website is to provide information about Kodansha itself, and to showcase the different publications that they have.
+
+- What are key components:
+
+Multipage website
+
+- What technology used and how it is used:
+
+HTML - used for the the whole structure of the website.
+CSS - used to style and create layout for the webpages, also to decorate the webpages.
 
 
 ### Key Components
 <!-- TODO: List of Key Components -->
 <!-- The following are just sample -->
 - MultiPage Website/Single Page Website
-- Parallax transition
-- Transactional
 
 ### Technology
 <!-- TODO: List of Technology Used -->
 ![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=white)
+
 
 ## Rules, Practices and Principles
 1. Always use `WD-` in the front of the Title of the Project for the Subject followed by your custom naming.
