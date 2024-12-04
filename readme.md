@@ -62,7 +62,9 @@
 Description of the project in details.
 
 Guiding Question:
-- What is the project: the project is about an interactive website for the publishing company Kodansha Comics.
+- What is the project: 
+
+The project is about an interactive website for the publishing company Kodansha Comics.
 
 - Whats the purpose:
 
