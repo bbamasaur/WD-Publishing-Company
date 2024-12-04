@@ -62,7 +62,7 @@
 Description of the project in details.
 
 Guiding Question:
-- What is the project: the proect is about an interactive website for the publishing company Kodansha Comics.
+- What is the project: the project is about an interactive website for the publishing company Kodansha Comics.
 
 - Whats the purpose:
 
@@ -75,6 +75,7 @@ Multipage website
 - What technology used and how it is used:
 
 HTML - used for the the whole structure of the website.
+
 CSS - used to style and create layout for the webpages, also to decorate the webpages.
 
 
